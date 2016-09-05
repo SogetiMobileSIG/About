@@ -17,4 +17,4 @@ JS Lead: TBA
 
 # Certifications
 
--Xamarin Certified Mobile Developer
+* [Xamarin Certified Mobile Developer] (https://university.xamarin.com/resources/certification)
