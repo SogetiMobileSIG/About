@@ -8,12 +8,16 @@ Sogeti Mobile Special Interest Group
 # Team Members
 Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
-Xamarin Lead: (hussain.abbasi@us.sogeti.com)
-iOS Lead: James Garcia
-Android Lead: Joseph Pinedo
-JS Lead: TBA
+* Design Lead: Lee Kile (lee.kile@us.sogeti.com)
+* Xamarin Lead: (hussain.abbasi@us.sogeti.com)
+* iOS Lead: James Garcia (james.garcia@us.sogeti.com)
+* Android Lead: Joseph Pinedo (joseph.pinedo@us.sogeti.com)
+* JS Lead: TBA
 
 # Projects
+## Xamarin Projects
+## iOS Projects
+## Android Projects
 
 # Certifications
 
