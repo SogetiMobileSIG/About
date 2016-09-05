@@ -35,7 +35,7 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 ## Group Resources
 * Group's Slack - [SogetiMobileSIG](sogetimobilesig.slack.com)
 * [Certification Portal (internal)](https://connex.sogeti.com)
-* [Group Documents (internal)]("https://connex.sogeti.com")
+* [Group Documents (internal)](https://connex.sogeti.com)
 
 ## Training Resources
 ### Xamarin
