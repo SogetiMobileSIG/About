@@ -1,2 +1,0 @@
-# About
-Group Information
