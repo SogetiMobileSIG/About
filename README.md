@@ -1,5 +1,7 @@
 # Sogeti Mobile Special Interest Group
-Sogeti Mobile Special Interest Group is
+Sogeti Mobile Special Interest Group is for all of our Sogetians who are interested in Mobile development. If you are just getting started in mobile development or are an experienced professional, there will something for everyone. In this group, we will focus on native and cross-platform development using iOS, Android, Xamarin and JavaScript solutions.
+
+The purpose of our group is to get like-minded folks together and have discussions on mobile related topics and ideas, learn from online and in-person resources, develop accelerators and sharing code.
 
 # Team Members
 Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
@@ -25,32 +27,36 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * [Xamarin Certified Mobile Developer] (https://university.xamarin.com/resources/certification)
 
 # Resources
-## Xamarin
-### Pluralsight Courses
+## Team Resources
+* We will communicate using Slack at [SogetiMobileSIG](sogetimobilesig.slack.com)
+
+## Training Resources
+### Xamarin
+#### Pluralsight Courses
 * Course 1
 
-### YouTube Videos
+#### YouTube Videos
 * Course 1
 
-### Other Resources
+#### Other Resources
 * Course 1
 
-## iOS
-### Pluralsight Courses
+### iOS
+#### Pluralsight Courses
 * Course 1
 
-### YouTube Videos
+#### YouTube Videos
 * Course 1
 
-### Other Resources
+#### Other Resources
 * Course 1
 
-## Android
-### Pluralsight Courses
+### Android
+#### Pluralsight Courses
 * Course 1
 
-### YouTube Videos
+#### YouTube Videos
 * Course 1
 
-### Other Resources
+#### Other Resources
 * Course 1
