@@ -61,7 +61,9 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### YouTube Videos
-* Course 1
+* Video 1 by Channel 1
+* Playlist X
+* Channel X
 
 #### Other Resources
 * Course 1
@@ -71,7 +73,9 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### YouTube Videos
-* Course 1
+* Video 1 by Channel 1
+* Playlist X
+* Channel X
 
 #### Other Resources
 * [Using FragmentHost with ViewPager](http://intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](http://intelliabb.com)
