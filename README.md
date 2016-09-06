@@ -6,10 +6,10 @@ Sogeti Mobile Special Interest Group is for all of our Sogetians who are interes
 In this group we will have discussions on mobile related topics and ideas, learn from online and in-person resources, develop accelerators and sharing code.
 
 
-# Team Members
-Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
+# Leads
+Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
-* Design Lead:  Lee Kile (lonnie.kile@us.sogeti.com)
+* UI/UX Lead:  Lee Kile (lonnie.kile@us.sogeti.com)
 * Xamarin Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * iOS Lead: James Garcia (james.garcia@us.sogeti.com)
 * Android Lead: Joseph Pinedo (joseph.pinedo@us.sogeti.com)
@@ -35,7 +35,7 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 # Resources
 ## Group Resources
-* Group's Slack - [SogetiMobileSIG](sogetimobilesig.slack.com)
+* Group's Slack - [SogetiMobileSIG](http://sogetimobilesig.slack.com)
 * [Certification Portal (internal)](https://connex.sogeti.com)
 * [Group Documents (internal)](https://1drv.ms/f/s!AqlpcutNmcafdHe47YXrq5s7C0o)
 
@@ -53,7 +53,8 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 #### Other Resources
 * [MotzCod.es](http://motzcod.es/)  by James Montemagno
-* [Getting Started with Xamarin](intelliabb.com/2016/06/25/getting-started-with-xamarin/) by [IntelliAbb](intelliabb.com)
+* [Getting Started with Xamarin](http://intelliabb.com/2016/06/25/getting-started-with-xamarin/) by [IntelliAbb](http://intelliabb.com)
+* [Xamarin Evolve 2016 Conference Sessions](https://evolve.xamarin.com/)
 
 ### iOS
 #### Pluralsight Courses
@@ -73,4 +74,4 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### Other Resources
-* [Using FragmentHost with ViewPager](intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](intelliabb.com)
+* [Using FragmentHost with ViewPager](http://intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](http://intelliabb.com)
