@@ -8,12 +8,13 @@ In this group we will have discussions on mobile related topics and ideas, learn
 # Leads
 Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
-* UI/UX Lead:  Lee Kile (lonnie.kile@us.sogeti.com)
-* Xamarin Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
-* iOS Lead: James Garcia (james.garcia@us.sogeti.com)
-* Android Lead: Joseph Pinedo (joseph.pinedo@us.sogeti.com)
-* JS Lead: TBA
-
+| Area  | Lead  | Email |
+|-------|-------|-------|
+| UI/UX | Lee Kile  | lonnie.kile@us.sogeti.com |
+| Xamarin | Hussain Abbasi | hussain.abbasi@us.sogeti.com |
+| iOS | James Garcia | james.garcia@us.sogeti.com |
+| Android | Joseph Pinedo | joseph.pinedo@us.sogeti.com |
+| HTML5 | TBA | |
 
 # Projects
 ### Xamarin Projects
