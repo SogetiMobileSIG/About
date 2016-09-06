@@ -18,15 +18,15 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 # Projects
 ### Xamarin Projects
-* Employee Directory
-* PDP Tracker
+* [Employee Directory](https://github.com/SogetiMobileSIG/About/tree/master/Projects/Xamarin/Employee%20Directory)
+* [PDP Tracker](https://github.com/SogetiMobileSIG/About/tree/master/Projects/Xamarin/PDP%20Tracker)
 
 ### iOS Projects
 * Life Profile
-* PDP Tracker
+* [PDP Tracker](https://github.com/SogetiMobileSIG/About/tree/master/Projects/iOS/PDP%20Tracker)
 
 ### Android Projects
-* PDP Tracker
+* [PDP Tracker](https://github.com/SogetiMobileSIG/About/tree/master/Projects/Android/PDP%20Tracker)
 
 
 # Certifications
