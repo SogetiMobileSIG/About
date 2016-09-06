@@ -3,7 +3,7 @@
 
 Sogeti Mobile Special Interest Group is for all of our Sogetians who are interested in Mobile development. If you are just getting started in mobile development or are an experienced professional, there will something for everyone. In this group, we will focus on native and cross-platform development using iOS, Android, Xamarin and JavaScript solutions.
 
-In this groupd we will have discussions on mobile related topics and ideas, learn from online and in-person resources, develop accelerators and sharing code.
+In this group we will have discussions on mobile related topics and ideas, learn from online and in-person resources, develop accelerators and sharing code.
 
 
 # Team Members
