@@ -48,7 +48,7 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### Other Resources
-* Course 1
+* [IntelliAbb - Getting Started with Xamarin](intelliabb.com/2016/06/25/getting-started-with-xamarin/)
 
 ### iOS
 #### Pluralsight Courses
@@ -68,4 +68,4 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### Other Resources
-* Course 1
+* [IntelliAbb - Using FragmentHost with ViewPager](intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager)
