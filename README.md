@@ -28,6 +28,9 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 ### Android Projects
 * [PDP Tracker](https://github.com/SogetiMobileSIG/About/tree/master/Projects/Android/PDP%20Tracker)
 
+### HTML5/JavaScript Projects
+* TBA
+
 
 # Certifications
 * [Xamarin Certified Mobile Developer] (https://university.xamarin.com/resources/certification)
@@ -68,7 +71,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 #### Other Resources
 * Book 1
-* Blog 2
+* Blog 1
 
 ### Android
 #### Pluralsight Courses
@@ -81,3 +84,16 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 #### Other Resources
 * [Using FragmentHost with ViewPager](http://intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](http://intelliabb.com)
+
+### HTML5 / JavaScript
+#### Pluralsight Courses
+* Course 1
+
+#### YouTube Videos
+* Video 1 by Channel 1
+* Playlist X
+* Channel X
+
+#### Other Resources
+* Book 1
+* Blog 1
