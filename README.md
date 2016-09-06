@@ -48,12 +48,12 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * [Building Cross Platform Mobile Apps with C#, Xamarin, and Azure](https://app.pluralsight.com/library/courses/building-cross-platform-mobile-apps-csharp-xamarin-azure)
 
 #### YouTube Videos
-* [Xamarin - Xamarin.Forms](https://www.youtube.com/playlist?list=PLM75ZaNQS_FZKqYOQAEPUqiWdyruggrGb)
-* [Xamarin.Android Tutorials](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l)
+* [Xamarin.Forms](https://www.youtube.com/playlist?list=PLM75ZaNQS_FZKqYOQAEPUqiWdyruggrGb) by [Xamarin](https://www.youtube.com/user/XamarinVideos)
+* [Xamarin.Android Tutorials](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) by [Joe Rock](https://www.youtube.com/user/Jodyrock11)
 
 #### Other Resources
 * [MotzCod.es](http://motzcod.es/)  by James Montemagno
-* [IntelliAbb - Getting Started with Xamarin](intelliabb.com/2016/06/25/getting-started-with-xamarin/)
+* [Getting Started with Xamarin](intelliabb.com/2016/06/25/getting-started-with-xamarin/) by [IntelliAbb](intelliabb.com)
 
 ### iOS
 #### Pluralsight Courses
@@ -73,4 +73,4 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Course 1
 
 #### Other Resources
-* [IntelliAbb - Using FragmentHost with ViewPager](intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager)
+* [Using FragmentHost with ViewPager](intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](intelliabb.com)
