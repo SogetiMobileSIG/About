@@ -50,6 +50,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 #### YouTube Videos
 * [Xamarin.Forms](https://www.youtube.com/playlist?list=PLM75ZaNQS_FZKqYOQAEPUqiWdyruggrGb) by [Xamarin](https://www.youtube.com/user/XamarinVideos)
 * [Xamarin.Android Tutorials](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) by [Joe Rock](https://www.youtube.com/user/Jodyrock11)
+* [Xamarin iOS and others](https://www.youtube.com/playlist?list=PLt7yfuLIHjC2thXjE-wq1aSwXOB7DHIk2)
 
 #### Other Resources
 * [MotzCod.es](http://motzcod.es/)  by James Montemagno
