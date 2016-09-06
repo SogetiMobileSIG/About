@@ -14,7 +14,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 | Xamarin | Hussain Abbasi | hussain.abbasi@us.sogeti.com |
 | iOS | James Garcia | james.garcia@us.sogeti.com |
 | Android | Joseph Pinedo | joseph.pinedo@us.sogeti.com |
-| HTML5 | Open |  Email Hussain to volunteer for this role  |
+| HTML5/JS | Tim Crouch |  timothy.crouch@us.sogeti.com  |
 
 # Projects
 ### Xamarin Projects
