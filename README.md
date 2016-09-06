@@ -66,7 +66,8 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Channel X
 
 #### Other Resources
-* Course 1
+* Book 1
+* Blog 2
 
 ### Android
 #### Pluralsight Courses
