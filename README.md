@@ -48,9 +48,11 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * [Building Cross Platform Mobile Apps with C#, Xamarin, and Azure](https://app.pluralsight.com/library/courses/building-cross-platform-mobile-apps-csharp-xamarin-azure)
 
 #### YouTube Videos
-* Course 1
+* [Xamarin - Xamarin.Forms](https://www.youtube.com/playlist?list=PLM75ZaNQS_FZKqYOQAEPUqiWdyruggrGb)
+* [Xamarin.Android Tutorials](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l)
 
 #### Other Resources
+* [MotzCod.es](http://motzcod.es/)  by James Montemagno
 * [IntelliAbb - Getting Started with Xamarin](intelliabb.com/2016/06/25/getting-started-with-xamarin/)
 
 ### iOS
