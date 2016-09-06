@@ -42,7 +42,10 @@ Team Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 ## Training Resources
 ### Xamarin
 #### Pluralsight Courses
-* Course 1
+* [Building Your First Xamarin.Android App from Start to Store](https://app.pluralsight.com/library/courses/ios-xamarin-from-start-to-store)
+* [Building Your First Xamarin.Android App from Start to Store](https://app.pluralsight.com/library/courses/android-xamarin-from-start-to-store)
+* [Introduction to Xamarin.Forms](https://app.pluralsight.com/library/courses/xamarin-forms-introduction)
+* [Building Cross Platform Mobile Apps with C#, Xamarin, and Azure](https://app.pluralsight.com/library/courses/building-cross-platform-mobile-apps-csharp-xamarin-azure)
 
 #### YouTube Videos
 * Course 1
