@@ -38,7 +38,8 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 # Resources
 ## Group Resources
-* Group's Slack - [SogetiMobileSIG](http://sogetimobilesig.slack.com)
+* Communication - Slack - [SogetiMobileSIG](http://sogetimobilesig.slack.com)
+* Task Management - Trello - [SogetiMobileSIG Team Cards](https://trello.com/sogetimobilesig)
 * [Certification Portal (internal)](https://connex.sogeti.com)
 * [Group Documents (internal)](https://1drv.ms/f/s!AqlpcutNmcafdHe47YXrq5s7C0o)
 
