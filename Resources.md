@@ -1,2 +1,0 @@
-# Resources
-## Heading 2
