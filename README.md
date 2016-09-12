@@ -18,8 +18,8 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 # Projects
 ### Xamarin Projects
-* Employee Directory
 * [PDP Tracker](https://github.com/SogetiMobileSIG/Xamarin/tree/master/PDPTracker)
+* Employee Directory
 
 ### iOS Projects
 * Life Profile
