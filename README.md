@@ -85,6 +85,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 #### Other Resources
 * [Using FragmentHost with ViewPager](http://intelliabb.com/2015/11/12/using-fragmenttabhost-with-viewpager) by [IntelliAbb](http://intelliabb.com)
+* [JSON to Java object converter tool](http://pojo.sodhanalibrary.com)
 
 ### HTML5 / JavaScript
 #### Pluralsight Courses
