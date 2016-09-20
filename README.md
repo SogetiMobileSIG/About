@@ -62,16 +62,14 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 ### iOS
 #### Pluralsight Courses
-* Course 1
+* [Swift in Depth](https://app.pluralsight.com/library/courses/swift-in-depth/table-of-contents) by Allen Holub
 
 #### YouTube Videos
-* Video 1 by Channel 1
+* [iOS Development with Swift Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B) by TheNewBoston
 * Playlist X
 * Channel X
 
 #### Other Resources
-* [iOS Development with Swift Tutorial - Apple Developer Registration](https://www.raywenderlich.com/category/ios)
-* [Objective-C Tutorial - Setting up Xcode](https://thenewboston.com/videos.php?cat=33)
 * [Apple Developer Reference](https://developer.apple.com/reference)
 
 ### Android
