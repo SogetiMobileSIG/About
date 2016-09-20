@@ -22,8 +22,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Employee Directory
 
 ### iOS Projects
-* Life Profile
-* PDP Tracker
+* TBA
 
 ### Android Projects
 * TBA
@@ -71,8 +70,9 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * Channel X
 
 #### Other Resources
-* Book 1
-* Blog 1
+* [iOS Development with Swift Tutorial - Apple Developer Registration](https://www.raywenderlich.com/category/ios)
+* [Objective-C Tutorial - Setting up Xcode](https://thenewboston.com/videos.php?cat=33)
+* [Apple Developer Reference](https://developer.apple.com/reference)
 
 ### Android
 #### Pluralsight Courses
