@@ -62,6 +62,8 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 ### iOS
 #### Pluralsight Courses
 * [Swift in Depth](https://app.pluralsight.com/library/courses/swift-in-depth/table-of-contents) by Allen Holub
+* [Consuming Web Services and Using Local Storage on iOS](https://app.pluralsight.com/library/courses/ios-data-fundamentals/table-of-contents) by Brice Wilson
+* [Creating Custom Controls in iOS](https://app.pluralsight.com/library/courses/creating-custom-controls-ios/table-of-contents) by Jordan Morgan
 
 #### YouTube Videos
 * [iOS Development with Swift Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B) by TheNewBoston
