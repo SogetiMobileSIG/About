@@ -69,7 +69,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * [iOS Development with Swift Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B) by TheNewBoston
 
 #### Other Resources
-* [Ray Wenderlich iOS Blog](https://www.raywenderlich.com/category/ios)
+* [iOS Development with Swift](https://www.raywenderlich.com/category/ios) by Ray Wenderlich
 * [Apple Developer Reference](https://developer.apple.com/reference)
 
 ### Android
