@@ -19,7 +19,6 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 # Projects
 ### Xamarin Projects
 * [PDP Tracker](https://github.com/SogetiMobileSIG/Xamarin/tree/master/PDPTracker)
-* Employee Directory
 
 ### iOS Projects
 * TBA
@@ -66,8 +65,6 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 #### YouTube Videos
 * [iOS Development with Swift Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B) by TheNewBoston
-* Playlist X
-* Channel X
 
 #### Other Resources
 * [Apple Developer Reference](https://developer.apple.com/reference)
