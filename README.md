@@ -31,7 +31,6 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 
 # Certifications
-* [Sogeti Certification Portal](https://sogetius1.sharepoint.com/hr/sogeti_university/SitePages/Certification Home Page.aspx)
 * [Xamarin Certified Mobile Developer] (https://sogetius1.sharepoint.com/hr/sogeti_university/Shared%20Documents/Sogeti%20Certification%20Program/DT/Xamarin%20Certified%20Mobile%20Developer.pdf)
 
 
@@ -39,7 +38,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 ## Group Resources
 * Communication - Slack - [SogetiMobileSIG](http://sogetimobilesig.slack.com)
 * Task Management - Trello - [SogetiMobileSIG Team Cards](https://trello.com/sogetimobilesig)
-* [Certification Portal (internal)](https://connex.sogeti.com)
+* [Sogeti Certification Portal (internal)](https://sogetius1.sharepoint.com/hr/sogeti_university/SitePages/Certification Home Page.aspx)
 * [Group Documents (internal)](https://1drv.ms/f/s!AqlpcutNmcafdHe47YXrq5s7C0o)
 
 ## Training Resources
