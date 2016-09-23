@@ -59,6 +59,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * [MotzCod.es](http://motzcod.es/)  by James Montemagno
 * [Getting Started with Xamarin](http://intelliabb.com/2016/06/25/getting-started-with-xamarin/) by [IntelliAbb](http://intelliabb.com)
 * [Xamarin Evolve 2016 Conference Sessions](https://evolve.xamarin.com/)
+* [JSON to C# Object Generator](http://json2csharp.com/)
 
 ### iOS
 #### Pluralsight Courses
