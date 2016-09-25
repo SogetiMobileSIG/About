@@ -24,7 +24,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 * TBA
 
 ### Android Projects
-* TBA
+* [Budget Master](https://github.com/SogetiMobileSIG/BudgetMaster)
 
 ### HTML5/JavaScript Projects
 * TBA
