@@ -12,7 +12,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 |-------|-------|-------|
 | UI/UX | Lee Kile  | lonnie.kile@us.sogeti.com |
 | Xamarin | Hussain Abbasi | hussain.abbasi@us.sogeti.com |
-| iOS | James Garcia | james.garcia@us.sogeti.com |
+| iOS | TBA |  |
 | Android | Joseph Pinedo | joseph.pinedo@us.sogeti.com |
 | HTML5/JS | Tim Crouch |  timothy.crouch@us.sogeti.com  |
 
