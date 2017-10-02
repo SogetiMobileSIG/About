@@ -31,7 +31,7 @@ Group Lead: Hussain Abbasi (hussain.abbasi@us.sogeti.com)
 
 
 # Certifications
-* [Xamarin Certified Mobile Developer] (https://sogetius1.sharepoint.com/hr/sogeti_university/Shared%20Documents/Sogeti%20Certification%20Program/DT/Xamarin%20Certified%20Mobile%20Developer.pdf)
+* [Xamarin Certified Mobile Developer](https://sogetius1.sharepoint.com/hr/sogeti_university/Shared%20Documents/Sogeti%20Certification%20Program/DT/Xamarin%20Certified%20Mobile%20Developer.pdf)
 
 
 # Resources
